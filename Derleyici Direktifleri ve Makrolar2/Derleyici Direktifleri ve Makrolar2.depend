@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1745588383 source:c:\users\mitha\onedrive\masaüstü\c projeleri\derleyici direktifleri ve makrolar2\main.c
+	<stdio.h>
+	"math_utils.h"
+
+1745588369 c:\users\mitha\onedrive\masaüstü\c projeleri\derleyici direktifleri ve makrolar2\math_utils.h
+
